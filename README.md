@@ -1,3 +1,5 @@
+This fork night get new features added to it.
+
 # pilcord
 
 [github](https://github.com/ResetXD/pilcord)

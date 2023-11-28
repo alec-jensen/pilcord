@@ -3,18 +3,12 @@ author: ResetXD <resetwastakenwastaken@gmail.com>
 license: MIT
 """
 
-from io import BufferedIOBase, BytesIO, IOBase
-from os import PathLike
-from typing import Optional, Union
+from io import BytesIO
 
 from aiohttp import ClientSession
 from PIL import Image
-from .error import InvalidImageType, InvalidImageUrl
+from .error import InvalidImageUrl
 from pathlib import Path
-
-from io import BufferedIOBase
-from os import PathLike
-from typing import Optional, Union
 
 class Meme:
     """
