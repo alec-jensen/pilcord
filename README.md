@@ -1,4 +1,4 @@
-This fork might get new features added to it.
+I've forked this repository to add some features that I need for my bot, and to just fix the code. This fork is independent from the original repository, so if you want to use the original repository, you can find it [here](https://github.com/krishsharma0413/pilcord)
 
 # pilcord
 
