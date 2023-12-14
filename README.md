@@ -1,13 +1,11 @@
-This fork night get new features added to it.
+This fork might get new features added to it.
 
 # pilcord
 
-[github](https://github.com/ResetXD/pilcord)
-
-status: `new image gen everyday!`
-
 
 A library rich with many image generation funcitons powered by PIL for your discord bot such as leveling, welcome card and meme generation!
+
+All PIL functions are used in async manner so it won't block your bot.
 
 
 ## ranking card preview
